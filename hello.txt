@@ -1,2 +1,3 @@
 Hello GitHub !
 Ceci est mon tout premier fichier dans un projet GitHub.
+Je progresse sur GitHub étape par étape.
